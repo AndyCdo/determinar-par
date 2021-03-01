@@ -1,0 +1,2 @@
+# determinar-par
+determinar par
